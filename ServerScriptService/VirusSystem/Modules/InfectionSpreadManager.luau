@@ -1,5 +1,5 @@
 local immunityManager = require(script.Parent.ImmunityManager)
-local virusConfig = require(script.Parent.Parent.CONFIGs.VirusConfig)
+local virusConfig = require(script.Parent.Parent.CONFIGS.VirusConfig)
 local collectionService = game:GetService("CollectionService")
 
 
