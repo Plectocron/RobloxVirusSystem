@@ -1,4 +1,4 @@
-local virusFunctions = require(script.VirusFunctions)
+local virusFunctions = require(script.Parent.VirusFunctions)
 
 local VirusConfig = {
 	
