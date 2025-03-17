@@ -1,4 +1,4 @@
-local virusConfig = require(game.ServerScriptService.VirusSystem.CONFIGs.VirusConfig)
+local virusConfig = require(game.ServerScriptService.VirusSystem.CONFIGS.VirusConfig)
 local CollectionService = game:GetService("CollectionService")
 
 local function onSmallpoxAdded(playerCharacter)
