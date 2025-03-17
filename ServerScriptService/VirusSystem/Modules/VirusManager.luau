@@ -1,4 +1,4 @@
-local virusConfig = require(script.Parent.Parent.CONFIGs.VirusConfig)
+local virusConfig = require(script.Parent.Parent.CONFIGS.VirusConfig)
 local spreadManager = require(script.Parent.InfectionSpreadManager)
 
 local VirusManager = {}
