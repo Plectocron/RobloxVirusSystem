@@ -1,5 +1,5 @@
-local immunityConfig = require(script.Parent.Parent.CONFIGs.ImmunityConfig)
-local virusConfig = require(script.Parent.Parent.CONFIGs.VirusConfig)
+local immunityConfig = require(script.Parent.Parent.CONFIGS.ImmunityConfig)
+local virusConfig = require(script.Parent.Parent.CONFIGS.VirusConfig)
 
 local ImmunityManager = {}
 
