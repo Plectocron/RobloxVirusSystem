@@ -9,7 +9,8 @@ local VirusConfig = {
 		ImmunityPenetration = 2,
 		CureName = "Smallpox Cure",
 		playFunction = virusFunctions.Smallpox,
-		
+
+		-- Custom configs
 		CoughZoneSize = Vector3.new(3,3,3),
 		CoughSpreadChance = 0.6,
 		CoughFrequency = 10
